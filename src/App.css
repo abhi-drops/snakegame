@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Silkscreen:wght@400;700&display=swap');
+
+.gameCanvas{
+  background-color: #e8f0ff;
+  border: 10px solid #061228;
+}
+
+*{
+  font-family: "Silkscreen", sans-serif;
+  color: #f7faff;
+}
+
+body{
+  background-color: #102a57;
+}
+
